@@ -11,4 +11,5 @@ Desired Improvements
 Reflection
 This was a great opportunity to solve an interesting data problem with pandas, numpy, and Django. This was my first time working with these libraries and the Django framework. My next step is to continue developing this project and deploy it for my friends and professional peers to test out so I can receive their feedback to revise it for a second version. This was a wonderful learning opportunity, and I'm excited to create a data visualization project for myself after being inspired by a Python data science talk I attended with Women Who Code this week. This code challenge has given me a great jumpstart toward that goal.
 
-- Matilda
+Best,
+Matilda
